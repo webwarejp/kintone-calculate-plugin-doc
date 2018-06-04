@@ -132,7 +132,7 @@
 
 ## ISODATESTRING 関数
 
-シリアル値を ISO 8601 の UTC 日付書式に変換します。
+シリアル値を [ISO 8601](https://ja.wikipedia.org/wiki/ISO_8601) の UTC 日付書式に変換します。
 
 ### 書式
 
