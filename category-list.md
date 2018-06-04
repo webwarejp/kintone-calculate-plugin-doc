@@ -5,7 +5,7 @@
 | 関数                                                 | 説明              |
 |:----------------------------------------------------|:-----------------|
 | [DATE 関数](date-time.md#DATE)                       | 特定の日付を表す シリアル値を返します。|
-| [DATESTRING 関数](date-time.md#DATESTRING)           | シリアル値を日付の文字列に変換します。|
+| [DATESTRING 関数](date-time.md##DATESTRING)           | シリアル値を日付の文字列に変換します。|
 | [DATEVALUE 関数](date-time.md#DATEVALUE)             | 文字列として格納された日付をシリアル値に変換します。| 
 | [DAY 関数](date-time.md#DAY)                         | 日付の日情報を返します。|
 | [DAYS 関数](date-time.md#DAYS)                       | 2 つの日付間の日数を返します。|
