@@ -79,6 +79,7 @@
 | [CEILING 関数](math-trig.md#user-content-ceiling-関数)                 | 指定された基準値の倍数のうち、最も近い値に数値を切り上げます。|
 | [CEILINGMATH 関数](math-trig.md#user-content-ceilingmath-関数)         | 数値を最も近い整数、または基準値の倍数で最も近い数に切り上げます。|
 | [CEILINGPRECISE 関数](math-trig.md#user-content-ceilingprecise-関数)   | 数値を最も近い整数、または基準値の倍数で最も近い数に切り上げます。|
+| [DIVIDE 関数](math-trig.md#user-content-divide-関数)                   | 数値を除数で割ったときの商を返します。 |
 | [EVEN 関数](math-trig.md#user-content-even-関数)                       | 指定した数値を最も近い偶数に切り上げた数値を返します。|
 | [FACT 関数](math-trig.md#user-content-fact-関数)                       | 数値の階乗を返します。|
 | [FACTDOUBLE 関数](math-trig.md#user-content-factdouble-関数)           | 数値の二重階乗を返します。|
